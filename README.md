@@ -21,7 +21,7 @@
 ## 如何运行
 
 ```bash
-git clone https://github.com/rcklos/rtsp_ffmpeg_demo.git
+git clone https://github.com/rcklos/rtsp-ffmpeg-demo.git
 cd rtsp_ffmpeg_demo/build
 
 cmake .. && cmake --build . && ./demo
