@@ -22,7 +22,7 @@
 
 ```bash
 git clone https://github.com/rcklos/rtsp-ffmpeg-demo.git
-cd rtsp_ffmpeg_demo/build
+cd rtsp-ffmpeg-demo/build
 
 cmake .. && cmake --build . && ./demo
 ```
