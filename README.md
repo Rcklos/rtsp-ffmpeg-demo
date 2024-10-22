@@ -4,19 +4,19 @@
 
 ### 操作系统
 
-![操作系统](http://cdn.lentme.cn/20220820180500.png)
+![操作系统](http://rcklos.oss-cn-shenzhen.aliyuncs.com/20220820180500.png)
 
 ### cmake
 
-![cmake](http://cdn.lentme.cn/20220820175932.png)
+![cmake](http://rcklos.oss-cn-shenzhen.aliyuncs.com/20220820175932.png)
 
 ### qt
 
-![qt](http://cdn.lentme.cn/20220820180420.png)
+![qt](http://rcklos.oss-cn-shenzhen.aliyuncs.com/20220820180420.png)
 
 ### ffmpeg 
 
-![ffmpeg](http://cdn.lentme.cn/20220820180708.png)
+![ffmpeg](http://rcklos.oss-cn-shenzhen.aliyuncs.com/20220820180708.png)
 
 ## 如何运行
 
